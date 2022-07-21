@@ -1,0 +1,34 @@
+h1 {
+  font-family: Fantasy;
+  font-size:100px;
+  font-weight: normal;
+}
+
+* {
+  background-color:1A0992;
+  color:#FFFFFF;
+  font-family:Arial;
+}
+
+h1 {
+  Background-color:#BCB2B2
+}
+
+ul {
+  flex-direction:column;
+  margin: 0 25px 0 25px;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+.img-caption {
+  font-size:35px;
+  font-style:bold;
+}
+
+img {
+  display:block;
+}
+#image {
+  align-content:center;
+  max-width:100%;
+}
